@@ -1,0 +1,17 @@
+.root {
+    -fx-font-family: Papyrus;
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+    -fx-alignment: center;
+}
+.title {
+    -fx-font-size: 40px;
+    -fx-fill: AQUA;
+}
+.text-field {
+    -fx-font-family: Helvetica;
+}
+#firstName {
+    -fx-background-color: dodgerblue;
+    -fx-font-family: Impact;
+}
